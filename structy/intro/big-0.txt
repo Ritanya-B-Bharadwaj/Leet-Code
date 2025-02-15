@@ -6,3 +6,6 @@ O(n^c) -> polynomial
 O(n) -> linear
 O(log(n)) -> logarithmic
 O(1) -> constant
+
+Rules: Always drop the constants
+Incase of multiple notations, choose the one with the highest order
