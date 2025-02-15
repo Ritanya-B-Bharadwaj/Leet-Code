@@ -1,0 +1,8 @@
+Writing the big O notation in the decreasing order:
+
+O(n!) -> factorial
+O(c^n) -> exponential
+O(n^c) -> polynomial
+O(n) -> linear
+O(log(n)) -> logarithmic
+O(1) -> constant
